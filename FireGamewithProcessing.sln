@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireGamewithProcessing", "FireGamewithProcessing\FireGamewithProcessing.csproj", "{FB3BF60F-A935-4FF1-967C-8626F8FEF176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireGamewithProcessingTests", "FireGamewithProcessingTests\FireGamewithProcessingTests.csproj", "{A45FBC03-45EF-44D4-B367-0570C5FC63DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3BF60F-A935-4FF1-967C-8626F8FEF176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3BF60F-A935-4FF1-967C-8626F8FEF176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3BF60F-A935-4FF1-967C-8626F8FEF176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3BF60F-A935-4FF1-967C-8626F8FEF176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45FBC03-45EF-44D4-B367-0570C5FC63DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45FBC03-45EF-44D4-B367-0570C5FC63DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45FBC03-45EF-44D4-B367-0570C5FC63DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45FBC03-45EF-44D4-B367-0570C5FC63DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C9C7AEF-01A0-446B-8877-035C157F2B6D}
+	EndGlobalSection
+EndGlobal
